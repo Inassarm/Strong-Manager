@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4qNIXz+CZ0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isa\\Documents\\CENFOTEC\\Gimnasio-Stefano\\Project2-backend\\CoreApp\\CoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.data.sqlclient\\5.2.1\\microsoft.data.sqlclient.5.2.1.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.2.0\\microsoft.data.sqlclient.sni.runtime.5.2.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identity.client\\4.60.3\\microsoft.identity.client.4.60.3.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.60.3\\microsoft.identity.client.extensions.msal.4.60.3.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.35.0\\microsoft.identitymodel.jsonwebtokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identitymodel.logging\\6.35.0\\microsoft.identitymodel.logging.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.35.0\\microsoft.identitymodel.tokens.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\newtonsoft.json\\7.0.1\\newtonsoft.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\paypal\\1.9.1\\paypal.1.9.1.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\restsharp\\111.4.1\\restsharp.111.4.1.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.35.0\\system.identitymodel.tokens.jwt.6.35.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.runtime.caching\\8.0.0\\system.runtime.caching.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Isa\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"iTextSharp 5.5.13.4\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Newtonsoft.Json 7.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"PayPal 1.9.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "PayPal",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
